@@ -74,7 +74,7 @@ Contributions to the project are welcome. If you encounter any issues or have su
 This project is licensed under the [MIT License](LICENSE).
 The script relies on the OpenAI API for text generation and image generation. Make sure you have the necessary API access and quota.
 The script runs indefinitely in a loop, continuously listening for new messages. You may need to handle stopping the script manually.
-Contributions
+
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 License
